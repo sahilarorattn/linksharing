@@ -20,3 +20,4 @@ stacktrace.log
 /target-eclipse/
 /classes
 /*.class
+/test
